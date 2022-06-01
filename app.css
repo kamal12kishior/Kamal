@@ -197,12 +197,12 @@ div#slider div img {
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  background-image: url(/assets/medical_background.jpg);
+  background-image: url(medical_background.jpg);
   background-size: cover;
 }
 
 #admission{
-  background-image: url(/assets/map.jpg);
+  background-image: url(map.jpg);
   background-size: cover;
   width: 100vw;
   
