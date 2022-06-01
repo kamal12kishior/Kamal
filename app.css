@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&family=Ubuntu&display=swap');
 :root {
   --primary: #00ddbb;
   --secondary: #ff00aa;
@@ -91,7 +93,8 @@ header {
   height: 50vh;
   display: flex;
   flex-direction: column-reverse;
-
+font-family: 'Quicksand', sans-serif;
+font-family: 'Ubuntu', sans-serif;
   position: relative;
 }
 
@@ -127,6 +130,8 @@ header #heading span {
   padding: 30px;
   background: linear-gradient();
   background-size: cover;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Ubuntu', sans-serif;
 }
 
 #text p {
@@ -210,6 +215,8 @@ div#slider div img {
   display: flex;
   flex-direction: column;
   position: relative;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Ubuntu', sans-serif;
 }
 #admission h2{
   width: 100%;
@@ -246,7 +253,8 @@ div#slider div img {
 #about{
   width: 100vw;
   padding: 30px 10px;
-  
+font-family: 'Quicksand', sans-serif;
+font-family: 'Ubuntu', sans-serif;  
 }
 #about hr{
   margin: 40px 0 ;
